@@ -1,5 +1,5 @@
 
-#Made using open source material as a base frombootstrap
+#Made using open source material from bootstrap as a base
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 ## Copyright and License
 
