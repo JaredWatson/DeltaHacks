@@ -234,6 +234,9 @@ if ($mysqli->connect_error) {
                           case 3:
                             echo "<td> High Risk </td>";
                           break;
+                            case 4:
+                            echo "<td> Critical </td>";
+                          break;
                         }
                       }
 
@@ -250,6 +253,9 @@ if ($mysqli->connect_error) {
                         case 3:
                           echo "<td> High Risk </td>";
                         break;
+                          case 4:
+                            echo "<td> Critical </td>";
+                          break;
                       }
                     } 
                     ?>
